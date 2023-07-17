@@ -1,7 +1,16 @@
 import React from "react";
+import ListOfPost from "./ListOfPost";
 
-const PostPage = () => {
-  return <div>Aqui mostramos los Posts</div>;
-};
+
+
+const PostPage = async () => {
+
+
+  return (
+    <section>
+      <ListOfPost/>
+    </section>
+  )
+}
 
 export default PostPage;

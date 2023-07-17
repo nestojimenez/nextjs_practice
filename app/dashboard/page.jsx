@@ -3,7 +3,7 @@ import React from 'react'
 const DashBoard = () => {
   return (
     <div>
-      My Dash Boar Page
+      My Dash Board Page
     </div>
   )
 }

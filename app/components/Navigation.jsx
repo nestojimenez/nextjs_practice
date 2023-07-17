@@ -14,6 +14,10 @@ const links = [
     label: "Posts",
     route: "/posts",
   },
+  {
+    label: 'Dahsboard',
+    route: '/dashboard'
+  }
 ];
 
 const Navigation = () => {
